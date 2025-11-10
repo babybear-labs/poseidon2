@@ -1,4 +1,4 @@
-# Poseidon
+# [WIP] Poseidon
 
 Poseidon is a cryptographic hash function optimized for zero-knowledge proof (ZKP) systems. 
 It operates using the sponge construction, which processes input data through a fixed-size permutation. 
